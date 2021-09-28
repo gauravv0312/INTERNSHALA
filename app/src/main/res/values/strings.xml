@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BitBrothers</string>
+    <string name="password_text">Password</string>
+    <string name="confirm_password_text">Confirm Password</string>
+    <string name="already_have_an_account_text">Already have an account?</string>
+    <string name="login">Login</string>
+</resources>
